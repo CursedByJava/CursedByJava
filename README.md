@@ -1,24 +1,5 @@
-# WILL TERRY - CURSEDBYJAVA
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Farsan+&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=Dedicated.;Determined.;Committed.)](https://git.io/typing-svg)
 
-<link rel="stylesheet" href="style.css"s>
-<div class="typing-container">
-    <span id="sentence" class="sentence"></span>
-    <span class="input-cursor"></span>
-</div>
-<body>
-    <div class = "container"> 
-        <h1>I'm a <span class="auto-type"></span></h1>
-    </div>
-<script src="https://unpkg.com/typed.js@2.0.15/dist/typed.umd.js"></script>
-<script>
-        var typed = new Typed(".auto-type", {
-            strings : ["Programmer", "Designer", "YouTuber"],
-            typeSpeed : 150,
-            backSpeed : 150, 
-            looped : true 
-        })
-</script>
-</body>
 
 
 <!--
