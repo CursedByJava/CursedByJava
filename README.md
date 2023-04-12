@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Farsan+&pause=1000&color=F70000&center=true&multiline=true&width=500&lines=Dedicated.;Determined.;Committed.)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Farsan+&pause=1000&color=5E02F7&vCenter=true&width=130&height=20&lines=Dedicated.;Determined.;Committed.)](https://git.io/typing-svg)
+
 
 
 <!--
