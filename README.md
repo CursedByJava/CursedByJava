@@ -1,8 +1,12 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Farsan+&pause=1000&color=5851FF&vCenter=true&width=130&height=20&lines=Dedicated.;Determined.;Committed.)](https://git.io/typing-svg)
+## Will Terry - CursedByJava
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Farsan+&pause=1000&color=5851FF&vCenter=true&width=130&height=20&lines=Dedicated.;Determined.;Committed.)](https://git.io/typing-svg)
+
+--- 
 
 "Sometimes it is the people no one can imagine anything of who do the things no one can imagine.” -Alan Turing
 
+---
 
 # ABOUT ME:
 
@@ -20,10 +24,10 @@ _KEEP IN CONTACT:_
   <img align="left" alt="Will's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://twitter.com/CursedByJava">
-  <img align="center" alt="Will's Twitter | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Will's Twitter | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/willterry/">
-  <img align="right" alt="Will's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Will's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <br />
