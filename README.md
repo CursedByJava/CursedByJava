@@ -1,6 +1,4 @@
-## Will Terry - CursedByJava
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Farsan+&pause=1000&color=5851FF&vCenter=true&width=130&height=20&lines=Dedicated.;Determined.;Committed.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F7642D&vCenter=true&width=290&height=40&lines=CursedByJava;Dedicated.;Determined.;Committed.)](https://git.io/typing-svg)
 
 --- 
 
