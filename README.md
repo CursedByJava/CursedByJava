@@ -40,15 +40,10 @@
 
 <br />
 
-<div align=left>
-  FEEL FREE TO REACH OUT!
+<div align=center>
+  How to reach me:
 </div>
-
 <br />
-<br />
-
-
-
 <div align = center>
   <a href="https://www.instagram.com/cursedbyjava/">
     <img alt="Will's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -60,14 +55,6 @@
     <img alt="Will's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
 </div>
-
-
-<br />
-<br />
-<br />
-<br />
-
-
 
 ---
 <div align = center style = "font-size: 25px;">
