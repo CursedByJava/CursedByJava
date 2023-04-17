@@ -42,19 +42,19 @@
 
 <br />
 
-<div align=center>
+<div align=center style="font-size: 20px">
   How to reach me:
 </div>
 <br />
 <div align = center>
   <a href="https://www.instagram.com/cursedbyjava/">
-    <img alt="Will's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+    <img alt="Will's Instagram" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
   </a>
   <a href="https://twitter.com/CursedByJava">
-    <img  alt="Will's Twitter | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+    <img  alt="Will's Twitter | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
   </a>
   <a href="https://www.linkedin.com/in/willterry/">
-    <img alt="Will's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    <img alt="Will's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
 </div>
 
