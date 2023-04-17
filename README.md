@@ -9,7 +9,7 @@
    ##### -Alan Turing
 </div>
 <br>
-<div align=center style="font-size: 20px">
+<div align=center style="font-size: 20px; color: orange">
 
   ## ABOUT ME: 
 </div>
@@ -26,7 +26,7 @@
 
 </div>
 <br />
-<div align=center style="font-size: 40px">
+<div align=center style="font-size: 40px; color: red">
 
   _Where to reach me_:
 <div align = center>
@@ -43,7 +43,7 @@
 
 ---
 
-<div align = center style = "font-size: 40px;">
+<div align = center style = "font-size: 40px; color: white">
 
   ### GITHUB STATISTICS
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CursedByJava&layout=compact&theme=transparent&hide_border=true&card_width=400)
