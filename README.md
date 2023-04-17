@@ -59,9 +59,11 @@
   </a>
 </div>
 
+---
+
 <div align = center style = "font-size: 40px;">
   
-  # GITHUB STATISTICS
+  ### GITHUB STATISTICS
 
 
 
