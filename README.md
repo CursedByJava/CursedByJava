@@ -40,7 +40,7 @@
     <img alt="Will's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
 
-  📬 <a href="mailto:will.terry1@outlook.com"> Email Me!
+  ### 📬 <a href="mailto:will.terry1@outlook.com"> Email Me!
   </a>
 
 
