@@ -8,8 +8,10 @@
 
 
 <br>
-<div align=center>
-"Sometimes it is the people no one can imagine anything of who do the things no one can imagine.” -Alan Turing
+<div align=center style="font-size: 15px">
+  "Sometimes it is the people no one can imagine anything of who do the things no one can imagine.”
+  
+   -Alan Turing
 </div>
 
 <br>
