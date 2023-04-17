@@ -44,7 +44,7 @@
 
 <div align=center style="font-size: 40px">
 
-  ## Where to reach me:
+  ### Where to reach me:
 <br />
 
 <div align = center>
