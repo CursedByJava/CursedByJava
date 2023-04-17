@@ -42,7 +42,7 @@
 
 <br />
 
-<div align=center style="font-size: 20px">
+<div align=center style="font-size: 40px">
   Where to reach me:
 </div>
 <br />
