@@ -21,7 +21,7 @@
 
 <div align=center style="font-size: 20px">
 
-  # ABOUT ME: 
+  ### ABOUT ME: 
 
 </div>
 
@@ -43,9 +43,10 @@
 <br />
 
 <div align=center style="font-size: 40px">
+
   Where to reach me:
-</div>
 <br />
+
 <div align = center>
   <a href="https://www.instagram.com/cursedbyjava/">
     <img alt="Will's Instagram" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
