@@ -49,9 +49,9 @@
 <div align = center style = "font-size: 40px; color: white">
 
   ### GITHUB STATISTICS
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CursedByJava&layout=compact&theme=highcontrast&hide_border=true&card_width=400)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CursedByJava&layout=compact&theme=tokyonight&hide_border=true&card_width=400)
 
-  ![GitHub Streak](https://streak-stats.demolab.com?user=CursedByJava&theme=highcontrast&hide_border=true&card_width=400)![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=CursedByJava&theme=highcontrast&hide_border=true&card_width=400)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=CursedByJava&theme=tokyonight&hide_border=true&card_width=400)![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=CursedByJava&theme=tokyonight&hide_border=true&card_width=400)
 </div>
 
 <!--
