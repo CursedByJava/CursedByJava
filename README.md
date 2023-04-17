@@ -60,10 +60,8 @@
 
 ---
 <div align = center style = "font-size: 40px;">
-
-  <br />
-    GITHUB STATISTICS
-  <br />
+  
+  GITHUB STATISTICS
   <br />
 
 
