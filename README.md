@@ -1,10 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F7642D&vCenter=true&width=290&height=40&lines=CursedByJava;Dedicated.;Determined.;Committed.)](https://git.io/typing-svg)
 
---- 
 
 "Sometimes it is the people no one can imagine anything of who do the things no one can imagine.” -Alan Turing
 
----
 
 # ABOUT ME:
 
