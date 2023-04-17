@@ -44,8 +44,7 @@
 
 <div align=center style="font-size: 40px">
 
-  ### Where to reach me:
-<br />
+  _Where to reach me_:
 
 <div align = center>
   <a href="https://www.instagram.com/cursedbyjava/">
