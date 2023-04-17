@@ -1,14 +1,21 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F7642D&vCenter=true&width=290&height=40&lines=CursedByJava;Dedicated.;Determined.;Committed.)](https://git.io/typing-svg)
 
+---
 
 "Sometimes it is the people no one can imagine anything of who do the things no one can imagine.” -Alan Turing
 
 
 # ABOUT ME:
 
-- Currently a computer
+- Senior in Computer Science / Mathematics at the University at Albany 🎓
+- 
 -
 -
+-
+-
+-
+-
+
 ---
 <br />
 
@@ -30,14 +37,20 @@ _KEEP IN CONTACT:_
 <br />
 <br />
 <br />
-<br />
----
----
----
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=CursedByJava&theme=blood-dark)](https://git.io/streak-stats)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CursedByJava&layout=compact&show_icons=true&card_width=500px&card_height=400px&theme=aura_dark#gh-dark-mode-only)](https://github.com/CursedByJava?tab=repositories)
+
+
+<div align = center>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CursedByJava&layout=compact&theme=transparent&hide_border=true&card_width=400)
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=CursedByJava&theme=transparent&hide_border=true&card_width=400)![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=CursedByJava&theme=transparent&hide_border=true&card_width=400)
+  
+</div>
+
+
+
 
 
 
