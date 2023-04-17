@@ -43,7 +43,7 @@
 <br />
 
 <div align=center style="font-size: 20px">
-  How to reach me:
+  Where to reach me:
 </div>
 <br />
 <div align = center>
