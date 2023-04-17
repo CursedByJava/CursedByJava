@@ -59,7 +59,7 @@
 </div>
 
 ---
-<div align = center style = "font-size: 25px;">
+<div align = center style = "font-size: 40px;">
 
   <br />
     GITHUB STATISTICS
