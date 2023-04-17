@@ -3,18 +3,16 @@
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F7642D&vCenter=true&width=290&height=40&lines=CursedByJava;Dedicated.;Determined.;Committed.)
 </div>
 <div align=center style="font-size: 15px">
-  "Sometimes it is the people no one can imagine anything of who do the things no one can imagine.”
   
+  ### "Sometimes it is the people no one can imagine anything of who do the things no one can imagine.”
+
    -Alan Turing
 </div>
 <br>
 <div align=center style="font-size: 20px">
 
   ## ABOUT ME: 
-
 </div>
-
-
 <div>
 
   - Senior in Computer Science / Mathematics at the University at Albany 🎓
@@ -27,14 +25,10 @@
   -
 
 </div>
-
-
 <br />
-
 <div align=center style="font-size: 40px">
 
   _Where to reach me_:
-
 <div align = center>
   <a href="https://www.instagram.com/cursedbyjava/">
     <img alt="Will's Instagram" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -50,15 +44,11 @@
 ---
 
 <div align = center style = "font-size: 40px;">
-  
+
   ### GITHUB STATISTICS
-
-
-
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CursedByJava&layout=compact&theme=transparent&hide_border=true&card_width=400)
-  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=CursedByJava&theme=transparent&hide_border=true&card_width=400)![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=CursedByJava&theme=transparent&hide_border=true&card_width=400)
 
+  ![GitHub Streak](https://streak-stats.demolab.com?user=CursedByJava&theme=transparent&hide_border=true&card_width=400)![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=CursedByJava&theme=transparent&hide_border=true&card_width=400)
 </div>
 
 <!--
