@@ -43,10 +43,10 @@ _KEEP IN CONTACT:_
 
 <div align = center>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CursedByJava&layout=compact&theme=transparent&hide_border=true&card_width=400)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CursedByJava&layout=compact&theme=radical&hide_border=true&card_width=400)
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=CursedByJava&theme=transparent&hide_border=true&card_width=400)![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=CursedByJava&theme=transparent&hide_border=true&card_width=400)
-  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=CursedByJava&theme=radical&hide_border=true&card_width=400)![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=CursedByJava&theme=radical&hide_border=true&card_width=400)
+
 </div>
 
 
