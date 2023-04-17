@@ -15,14 +15,14 @@
 </div>
 <div>
 
-  - Senior in Computer Science / Mathematics at the University at Albany 🎓
+  - 🎓 Currently a senior in Computer Science / Mathematics at the University at Albany (SUNY)
+  - 🌱 Learning 
+  - 👯 I’m looking to collaborate on ...
+  - 🤔 Searching for a job
+  - 💬 Ask me about ...
+  - 📫 How to reach me: ...
+  - 😄 Pronouns: ...
   - 
-  -
-  -
-  -
-  -
-  -
-  -
 
 </div>
 <br />
@@ -39,7 +39,10 @@
   <a href="https://www.linkedin.com/in/willterry/">
     <img alt="Will's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
-</div>
+
+  📬 <a href="mailto:will.terry1@outlook.com"> Email Me!
+  </a>
+
 
 ---
 
