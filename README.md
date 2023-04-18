@@ -14,8 +14,8 @@
   ## ABOUT ME: 
 </div>
 <div align=left>
- <img align=right src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="150" height="150"/>
-
+ <img align=right src="https://media.giphy.com/media/8ynOqCkWDpf5C/giphy.gif" width="150" height="150"/>
+ 
   - 🎓 Currently a senior in Computer Science / Mathematics at the University at Albany (SUNY)
   - 🌱 Learning 
   - 👯 I’m looking to collaborate on ...
