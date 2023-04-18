@@ -16,14 +16,13 @@
 <div align=left>
  <img align=right src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200" height="200"/>
 
-  - 🎓 Currently a senior in Computer Science / Mathematics at the University at Albany (SUNY)
-  - 🌱 Learning 
-  - 👯 I’m looking to collaborate on ...
-  - 🤔 Searching for a job
-  - 💬 Ask me about ...
-  - 📫 How to reach me: ...
-  - 😄 Pronouns: ...
+  - 🎓 Computer Science / Mathematics student at SUNY Albany
+  - 🌱 Learning systems programming and the C language
+  - 👯 Looking to collaborate on any projects
+  - 🤔 Searching for a position as a front end, back end, or full stack dev
+  - 😄 Pronouns: He/Him
 </div>
+
 <br />
 <div align=center style="font-size: 40px; color: red">
 <br>
