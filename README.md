@@ -4,7 +4,7 @@
 </div>
 <div align=center style="font-size: 15px">
   
-  ### "Sometimes it is the people no one can imagine anything of who do the things no one can imagine.”
+  ### "We can only see a short distance ahead, but we can see plenty there that needs to be done.”
 
    #### -Alan Turing
 </div>
@@ -24,6 +24,11 @@
   - 😄 Pronouns: ...
   - 
 
+</div>
+
+<div align=right>
+
+  ![Alt Text](https://media.giphy.com/media/8ynOqCkWDpf5C/giphy.gif)
 </div>
 <br />
 <div align=center style="font-size: 40px; color: red">
