@@ -16,11 +16,11 @@
 <div align=left>
  <img align=right src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200" height="200"/>
 
-  - 🎓 Computer Science / Mathematics student at SUNY Albany
-  - 🌱 Learning systems programming and the C language
-  - 👯 Looking to collaborate on any projects
-  - 🤔 Searching for a position as a front end, back end, or full stack dev
-  - 😄 Pronouns: He/Him
+  - ### 🎓 Computer Science / Mathematics student at SUNY Albany
+  - ### 🌱 Learning systems programming and the C language
+  - ### 👯 Looking to collaborate on any projects
+  - ### 👨🏾‍💻 Searching for a position as a front end, back end, or full stack dev
+  - ### 😄 Pronouns: He/Him
 </div>
 
 <br />
