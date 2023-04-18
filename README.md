@@ -1,6 +1,6 @@
 <div align=center>
 
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F7642D&vCenter=true&width=290&height=40&lines=CursedByJava;Dedicated.;Determined.;Committed.)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=6136ff&vCenter=true&width=290&height=40&lines=CursedByJava;Dedicated.;Determined.;Committed.)
 </div>
 <div align=center style="font-size: 15px">
   
