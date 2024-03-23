@@ -11,7 +11,7 @@
 <br>
 <div align=center style="font-size: 20px; color: orange">
 
-  ## ABOUT ME: 
+  ## ABOUT ME
 </div>
 <div align=left>
  <img align=right src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200" height="200"/>
